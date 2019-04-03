@@ -1,0 +1,18 @@
+h1 {
+    color: royalblue;
+    text-align: center;
+}
+
+p {
+    color: greenyellow;
+    text-align: center;
+}
+
+button {
+    height: 50px;
+    width: 75px;
+    display: block;
+    position: relative;
+    border: 1px solid white;
+    margin: 0 auto;
+}
